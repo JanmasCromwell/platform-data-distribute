@@ -1,0 +1,17 @@
+{
+    "name": "janmas/platform-data-distribute",
+    "autoload": {
+        "psr-4": {
+            "Janmas\\PlatformDataDistribute\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "janmas",
+            "email": "janmas-cromwell@outlook.com"
+        }
+    ],
+    "require": {
+        "guzzle/http": "^3.9"
+    }
+}
